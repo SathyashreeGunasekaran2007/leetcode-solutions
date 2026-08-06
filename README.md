@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
