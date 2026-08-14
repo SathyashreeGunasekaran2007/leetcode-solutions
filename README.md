@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
