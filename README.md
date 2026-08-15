@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3856-trim-trailing-vowels](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
 |  |
 | ------- |
