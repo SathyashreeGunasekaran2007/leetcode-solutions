@@ -12,32 +12,26 @@ class Solution {
         }
         while(left < right){
             int mid = left + (right - left) / 2;
-            if(canmake(bloomDay,m,k,mid)){
+            int bouquets = 0;
+            int consecutive = 0;
+            for(int day : bloomDay){
+                if(day <= mid){
+                    consecutive++;
+                    if(consecutive == k){
+                        bouquets++;
+                        consecutive = 0;
+                    }
+                }else{
+                    consecutive = 0;
+                }
+            }
+            if(bouquets >= m){
                 right = mid;
             }else{
                 left = mid + 1;
             }
-
         }
         return left;
     }
-    public boolean canmake(int[] bloomDay, int m, int k, int day){
-        int bouquets = 0;
-        int consecutive = 0;
-        for(int bloom : bloomDay){
-            if(bloom <= day){
-                consecutive++;
-                if(consecutive == k){
-                    bouquets++;
-                    consecutive = 0;
-                }
-            }else{
-                    consecutive = 0;
-            }
-            if(bouquets >= m){
-                    return true;
-            }
-        }
-        return false;
-    }
+    
 }
