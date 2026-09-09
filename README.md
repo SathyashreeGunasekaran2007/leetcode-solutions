@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
