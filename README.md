@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
