@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
