@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2418-sort-the-people](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3856-trim-trailing-vowels](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2418-sort-the-people](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
