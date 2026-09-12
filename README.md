@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
