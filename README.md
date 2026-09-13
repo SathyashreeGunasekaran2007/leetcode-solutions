@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1051-height-checker) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0977-squares-of-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0977-squares-of-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
