@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
