@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0050-powx-n) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
