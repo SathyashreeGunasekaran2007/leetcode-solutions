@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0274-h-index) |
+| [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
