@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0461-hamming-distance) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
