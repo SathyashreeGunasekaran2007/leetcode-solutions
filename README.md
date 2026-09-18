@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -381,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
