@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
