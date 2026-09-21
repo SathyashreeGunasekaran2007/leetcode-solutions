@@ -3,8 +3,8 @@ class Solution {
         String s = build(n);
         return s.charAt(k-1);
     }
-    public String build(int n){
-        if(n == 1){
+    private String build(int n){
+        if(n == 0){
             return "0";
         }
         String front = build(n-1);
