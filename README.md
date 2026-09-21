@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0050-powx-n) |
+| [0390-elimination-game](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
