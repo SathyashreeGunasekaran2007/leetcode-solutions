@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
