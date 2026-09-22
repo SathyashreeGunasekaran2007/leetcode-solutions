@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Counting
 |  |
