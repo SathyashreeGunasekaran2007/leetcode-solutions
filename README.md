@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1219-path-with-maximum-gold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
 ## Memoization
