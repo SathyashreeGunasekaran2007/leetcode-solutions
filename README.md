@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1219-path-with-maximum-gold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [1219-path-with-maximum-gold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 ## Counting Sort
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [1219-path-with-maximum-gold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
 ## Memoization
 |  |
