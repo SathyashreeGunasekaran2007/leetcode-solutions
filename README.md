@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
