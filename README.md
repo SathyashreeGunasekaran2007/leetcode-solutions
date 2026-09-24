@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0179-largest-number) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
