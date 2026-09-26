@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0390-elimination-game](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
