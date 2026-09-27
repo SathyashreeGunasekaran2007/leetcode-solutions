@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0980-unique-paths-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/2151-maximum-good-people-based-on-statements) |
