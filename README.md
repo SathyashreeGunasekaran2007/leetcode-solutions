@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
 | [1051-height-checker](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
 ## Matrix
 |  |
 | ------- |
