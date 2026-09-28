@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
