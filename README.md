@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -535,4 +537,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
