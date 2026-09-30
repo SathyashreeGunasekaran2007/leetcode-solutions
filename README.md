@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
 ## Divide and Conquer
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0630-course-schedule-iii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Merge Sort
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0079-word-search) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -573,4 +577,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
