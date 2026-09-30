@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [0983-minimum-cost-for-tickets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
 ## Divide and Conquer
 |  |
