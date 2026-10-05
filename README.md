@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
+| [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0983-minimum-cost-for-tickets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
+| [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0322-coin-change) |
+| [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -631,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0062-unique-paths) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
