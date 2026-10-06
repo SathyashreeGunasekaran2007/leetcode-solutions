@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [1143-longest-common-subsequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -640,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
