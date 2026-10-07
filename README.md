@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
