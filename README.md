@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0406-queue-reconstruction-by-height](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/SathyashreeGunasekaran2007/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Longest Common Subsequence
 |  |
